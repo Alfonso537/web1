@@ -1,0 +1,37 @@
+﻿<!--  La parte fija del fichero xml correspondiente a un rss  -->
+<rss version="2.0">
+<channel>
+<title>Página web de Alfonso - Noticias</title>
+<link>https://alfonso537.github.io/web1/</link>
+<description>Feed RSS de noticias sobre ratones de última generación</description>
+<!--  La parte fija opcional  -->
+<language>es-ES</language>
+<image>
+<title>RSS</title>
+<url>imagenes/RSSLOGO.png</url>
+<link>https://alfonso537.github.io/web1/index.html</link>
+</image>
+
+<!-- Noticia 1 -->
+<item>
+<title>PELICULAS SHREK</title>
+<link>https://alfonso537.github.io/web1/#Pelicula</link>
+<description>Todas las peliculas de shrek</description>
+</item>
+
+<!-- Noticia 2 -->
+<item>
+<title>PERSONAJES SHREK</title>
+<link>https://alfonso537.github.io/web1/#Personajes</link>
+<description>Todos los personajes de shrek</description>
+</item>
+
+<!-- Noticia 3 -->
+<item>
+<title>ASNO</title>
+<link>https://alfonso537.github.io/web1/Asnoestilo1.html</link>
+<description>Este es mi personaje favorito de shrek</description>
+</item>
+
+</channel>
+</rss>
